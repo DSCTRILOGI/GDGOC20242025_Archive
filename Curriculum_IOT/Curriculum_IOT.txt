@@ -11,8 +11,7 @@ Kurikulum IoT:
 - Integrasi IoT dengan cloud computing
 
 Teknis:
-- Jadwal Kelas: Kelas mingguan akan dimulai pada Minggu kedua bulan Maret 2025, 
-berlangsung setiap hari Jumat pukul 14.00 – 16.00 WIB.
+- Jadwal Kelas: Kelas mingguan berlangsung setiap hari Jumat pukul 14.00 – 16.00 WIB. (Belum dimulai)
 - Tempat: Google Meet
 
 Format Kelas:
