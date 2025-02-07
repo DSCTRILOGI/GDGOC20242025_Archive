@@ -1,0 +1,35 @@
+Halo Semua, Saya Qonita Qotrunnada Curriculum IoT di GDSC Trilogi.
+Saya memiliki pengalaman dalam pengembangan sistem berbasis IoT, 
+mencakup integrasi perangkat keras, komunikasi data, serta implementasi sistem berbasis cloud.
+
+Kurikulum IoT:
+- Pengantar IoT dan arsitektur sistem
+- Pengenalan mikrokontroler (Arduino & ESP32)
+- Sensor dan aktuator dalam sistem IoT
+- Komunikasi data (MQTT, HTTP, dan WebSocket)
+- Dashboard monitoring IoT
+- Integrasi IoT dengan cloud computing
+
+Teknis:
+- Jadwal Kelas: Kelas mingguan akan dimulai pada Minggu kedua bulan Maret 2025, 
+berlangsung setiap hari Jumat pukul 14.00 – 16.00 WIB.
+- Tempat: Google Meet
+
+Format Kelas:
+- 30% teori (konsep, arsitektur, dan skenario implementasi)
+- 70% praktik (pengkodean, koneksi hardware, analisis data)
+- Hands-on project per sesi
+
+Target:
+- Memberikan pemahaman fundamental IoT kepada peserta.
+- Melatih peserta dalam mengembangkan sistem IoT sederhana.
+- Menyusun proyek akhir berbasis IoT yang dapat diimplementasikan secara real.
+
+Kebutuhan Kelas:
+Untuk kelancaran kelas ini, terdapat beberapa kebutuhan yang harus dipenuhi:
+Hardware:
+- Laptop
+Software:
+- Arduino IDE, C++
+Dukungan lainnya:
+- Akses internet yang stabil
