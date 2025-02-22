@@ -1,4 +1,4 @@
-Halo Semua, Saya Qonita Qotrunnada Curriculum IoT di GDSC Trilogi.
+Halo Semua, Saya Qonita Qotrunnada Curriculum IoT di GDGoC Trilogi.
 Saya memiliki pengalaman dalam pengembangan sistem berbasis IoT, 
 mencakup integrasi perangkat keras, komunikasi data, serta implementasi sistem berbasis cloud.
 
@@ -10,6 +10,9 @@ Kurikulum IoT:
 - Komunikasi data (MQTT, HTTP, dan WebSocket)
 - Dashboard monitoring IoT
 - Integrasi IoT dengan cloud computing
+
+Link Materi PPT:
+https://drive.google.com/drive/folders/1YrfqVcDaXbP0Tdmm4qqq9AUsga1k4ezo?usp=sharing 
 
 Teknis:
 - Jadwal Kelas: Kelas mingguan berlangsung setiap hari Jumat pukul 14.00 – 16.00 WIB. (Belum dimulai)
